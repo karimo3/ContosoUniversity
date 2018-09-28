@@ -1,0 +1,11 @@
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\obaidka\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
